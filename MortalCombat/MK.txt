@@ -1,0 +1,8 @@
+		WELCOME TO MORTAL KOMBAT
+
+CharacterName   BlockPower	AttackPower	SpecialPower
+Subzero		    10		     12		      30
+Scorpion	     9		     16		      25
+Raiden		    15		     20		      40
+Jaks		    11		     13		      23
+Kitana		    13		     13		      29
